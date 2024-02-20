@@ -1,0 +1,9 @@
+<h1>Minesweeper</h1>
+<p>Creator: Ethan Hohman
+<p>Art Credit: UchiMama at <a href="https://uchimama.itch.io/minesweeper-tileset">https://uchimama.itch.io/minesweeper-tileset</a>
+
+<h2>Instructions</h2>
+In Minesweeper the goal is to find all the bombs by revealing all safe squares but you lose if you reveal a bomb.  Each square will show how many bombs are bordering it. A blank space is equivalant to zero.  There are flags you can place to mark spots you believe have a bomb.
+
+<h2>Controls</h2>
+In the setup phase click on a text box to change any paramater then hit submit when all paramaters match your preferences.  You can then interact with the minefield by left and right clickling.  Left clicking an empty cell will reveal it.  A right click will flag the cell if empty or unflag a flagged cell.  If you left click on a revealed cell that has as many flags around it as its number it will reveal all other cells surrounding it.
